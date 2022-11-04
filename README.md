@@ -7,7 +7,7 @@ The code of the [Golang Todo API]() site.
 * Axios
 * Composition API
 
-For more information about the API check [here]()
+For more information about the API check [here](https://github.com/WinterSakuraa/Golang-Todo-REST-API)
 
 ## Quick start
 
